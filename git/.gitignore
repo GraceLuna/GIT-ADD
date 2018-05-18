@@ -1,0 +1,8 @@
+1 #编辑器配置文件
+2 .idea
+3 .vscode
+4 # 日志文件
+5 *.log
+6 #依赖包
+7 node_modules
+
